@@ -25,4 +25,13 @@
 
 #### Overall, this setup uses Docker Compose to define and run three services (web server, database, and phpMyAdmin) and a PHP script to query and display data from a MySQL database.
 
+### For Execute this code run this command in terminal of Codespace
+- docker-compose up
+
+### For Stop execution run this
+![image](https://github.com/Abidali08/MYSQL_PHP_DOCKER/assets/49807758/2606099f-ded3-40e1-bd5c-42655867f687)
+
+- docker-compose up
+
+### 
 ### docker-php-ext-install mysqli
