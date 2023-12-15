@@ -41,3 +41,5 @@
 - ![image](https://github.com/Abidali08/MYSQL_PHP_DOCKER/assets/49807758/efc7578a-41a4-4e31-957a-6f5b20ba338a)
 
   ## docker-php-ext-install mysqli
+
+  - after excution of above command restart the container 
