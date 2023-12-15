@@ -33,5 +33,11 @@
 
 - docker-compose up
 
-### 
-### docker-php-ext-install mysqli
+### Any case of this error 
+
+![image](https://github.com/Abidali08/MYSQL_PHP_DOCKER/assets/49807758/5296a7f0-b838-4bc9-911e-7949201c06bf)
+
+- Excute this command in apache image
+- ![image](https://github.com/Abidali08/MYSQL_PHP_DOCKER/assets/49807758/efc7578a-41a4-4e31-957a-6f5b20ba338a)
+
+  ## docker-php-ext-install mysqli
