@@ -28,10 +28,11 @@
 ### For Execute this code run this command in terminal of Codespace
 - docker-compose up
 
-### For Stop execution run this
-![image](https://github.com/Abidali08/MYSQL_PHP_DOCKER/assets/49807758/2606099f-ded3-40e1-bd5c-42655867f687)
 
-- docker-compose up
+![image](https://github.com/Abidali08/MYSQL_PHP_DOCKER/assets/49807758/2606099f-ded3-40e1-bd5c-42655867f687)
+### For Stop execution run this
+
+- docker-compose down
 
 ### Any case of this error 
 
