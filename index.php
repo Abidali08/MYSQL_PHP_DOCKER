@@ -1,6 +1,6 @@
 <?php
 
-$con = mysqli_connect('db','phpdocker','password','php_docker');
+$con = mysqli_connect('db','php_docker','password','php_docker');
 
 $table_name = "php_docker_table";
 
